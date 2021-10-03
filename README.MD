@@ -1,7 +1,7 @@
-# Projeto desenvolvido para o HACKTHON da NASA
+# Projeto desenvolvido para o HACKTHON Space Apps 2021!
 
 ## Objetivo
-* Estudo de parametros e suas incedências na produção de luz solar
+* Estudo de parâmetros e suas incedências na produção de luz solar
 
 * modelo de treino baseado na árvore de decisão
 
