@@ -8,7 +8,7 @@
 * Arquivo main.py
     * Obtemos o modelo de treinamento com as tranformações dos dados
 * Arquivo run.py
-    * Temos a api que faram a consulta com os parametros desejados 
+    * Temos a api que fará a consulta com os parâmetros desejados 
 
 ## Projetos futuros
 * Obter dados de produção de energia com placas solares
