@@ -12,4 +12,4 @@
 
 ## Projetos futuros
 * Obter dados de produção de energia com placas solares
-* Desenvolver modelo de predição que posso auxiliar na escolha das melhores regiões para se ter o sistema fotovoltaico 
+* Desenvolver modelo de predição, que possa auxiliar na escolha das melhores regiões para se ter o sistema fotovoltaico, garantindo maior rendimento e custo benefício!
