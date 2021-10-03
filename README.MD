@@ -9,3 +9,7 @@
     * Obtemos o modelo de treinamento com as tranformações dos dados
 * Arquivo run.py
     * Temos a api que faram a consulta com os parametros desejados 
+
+## Projetos futuros
+* Obter dados de produção de energia com placas solares
+* Desenvolver modelo de predição que posso auxiliar na escolha das melhores regiões para se ter o sistema fotovoltaico 
